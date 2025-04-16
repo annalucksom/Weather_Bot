@@ -1,19 +1,22 @@
-Climora
+Weather Chatbot
 
-OOTD(outfit of the day) prediction/suggestion bot providing context on the basis of real-time weather info, capturing data via OpenWeatherMap (free-tier API) and contextual insights via Gemini API lookups.
+The Weather OOTD Chatbot is a smart conversational assistant that not only provides weather updates but also recommends appropriate outfits based on the current or forecasted weather conditions. By integrating weather data with fashion logic, the chatbot helps users decide what to wear for the day, enhancing convenience, comfort, and style. Accessible through web or mobile platforms, it uses natural language processing to engage users in a friendly, intuitive conversation.
 
-Setup/ Installation
+Objective
 
-Prerequisites
-Node.js (latest LTS recommended)
-npm or yarn
+The primary objective of the Weather OOTD Chatbot is to assist users in dressing appropriately for the weather while promoting personal style and comfort. Specific goals include:
 
-Clone the Repository
-[git clone https://github.com/nags0x/weatherOOTD-bot.git
-cd weatherOOTD-bot](url)
+To provide real-time and forecast-based weather updates.
+To recommend suitable outfits based on temperature, humidity, wind, and precipitation.
+To personalize suggestions based on gender, style preferences, and activity.
+To enhance user interaction with a simple, engaging, and conversational interface.
 
-Install Dependencies
-npm install
+Contribution:
 
-Run the Frontend
-npm run dev
+Team Members:
+
+Arathi krishnan K R, Regno: 12305050, Roll no: 47
+
+Anna Grace Lucksom, Regno: 12305430, Roll no: 44
+
+Sayed Afnan, Regno: 12319198, Roll no: 58
