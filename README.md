@@ -13,12 +13,3 @@ To recommend suitable outfits based on temperature, humidity, wind, and precipit
 To personalize suggestions based on gender, style preferences, and activity.
 To enhance user interaction with a simple, engaging, and conversational interface.
 
-Contribution:
-
-Team Members:
-
-Arathi krishnan K R, Regno: 12305050, Roll no: 47
-
-Anna Grace Lucksom, Regno: 12305430, Roll no: 44
-
-Sayed Afnan, Regno: 12319198, Roll no: 58
